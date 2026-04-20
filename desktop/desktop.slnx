@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Console/autoapp.csproj" />
+  <Project Path="DataAccess/DataAccess.csproj" />
+  <Project Path="GUI/autoform.csproj" />
+</Solution>

@@ -1,0 +1,78 @@
+# ===========================
+# .NET / C#
+# ===========================
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]uild/
+[Pp]ublish/
+
+# ===========================
+# Visual Studio
+# ===========================
+.vs/
+*.rsuser
+*.MSDeploy*
+TestResult.xml
+*.log
+*.pidb
+*.vcxprojresolve
+*.VC.VC.opendb
+*.VC.db
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.VC.opendb
+
+# ===========================
+# JetBrains Rider
+# ===========================
+.idea/
+*.sln.iml
+
+# ===========================
+# OS
+# ===========================
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
